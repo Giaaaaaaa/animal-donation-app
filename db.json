@@ -1,0 +1,18 @@
+{
+  "animals": [
+    {
+      "id": 4,
+      "name": "Wombat",
+      "imageURL": "https://media.australian.museum/media/dd/images/Some_image.width-800.c4eca6d.jpg",
+      "description": "Wombats are short-legged, muscular quadrupedal marsupials that are native to Australia.",
+      "donations": 50
+    },
+    {
+      "name": "lion",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/1200px-Lion_waiting_in_Namibia.jpg",
+      "description": "lion",
+      "donations": 30,
+      "id": 6
+    }
+  ]
+}
